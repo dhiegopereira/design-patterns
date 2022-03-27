@@ -39,7 +39,11 @@
 - [Template Method](./03-Behavioral/templateMethod.js): Define algoritmos extensíveis;
 - [Visitor](./03-Behavioral/visitor.js): Define uma nova operação para uma classe sem alterá-la.
 
+_____________________
 
+## Referências
+ - [Entenda Design Patterns - Dio](https://www.dio.me/articles/entenda-design-patterns)
+ - [Design Patterns - Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
 
 
